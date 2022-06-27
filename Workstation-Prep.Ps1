@@ -1,4 +1,3 @@
-# This is a test for the overwrite function
 
 
 
@@ -12,6 +11,8 @@
 #                                           #
 #                                           #
 #############################################
+
+# This is a test for the overwrite function
 
 $global:startmenu = @"
 <LayoutModificationTemplate Version="1" xmlns="http://schemas.microsoft.com/Start/2014/LayoutModification" xmlns:defaultlayout="http://schemas.microsoft.com/Start/2014/FullDefaultLayout" xmlns:start="http://schemas.microsoft.com/Start/2014/StartLayout" xmlns:taskbar="http://schemas.microsoft.com/Start/2014/TaskbarLayout">
